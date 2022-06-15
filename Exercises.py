@@ -35,4 +35,7 @@ class Athlete:
 ma = Athlete("Maria","girl")
 print(ma.get_name(), " is ", ma.running())
 
+ma = Athlete("Priya","girl")
+print(ma.get_name(), " is ", ma.running())
+
 
